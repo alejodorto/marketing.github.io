@@ -1,0 +1,9 @@
+.global {
+    font-size: 20px;
+    font-weight: 40px;
+}
+
+.h2 sub {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkblue;
+}
